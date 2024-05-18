@@ -115,7 +115,7 @@ a:hover {
     flex-wrap: wrap; 
 }
 
-.tenis {
+.YezzySlide {
     height: 10%;
     width: 20%; 
     padding: 10px;
@@ -125,7 +125,49 @@ a:hover {
     border-radius: 50px;
 }
 
-.tenis img {
+.YezzySlide img {
+    width: 80%; 
+}
+
+.yeezyboost350v2zebra {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    border: 1px solid #ddd; 
+    text-align: center;
+    border-radius: 50px;
+}
+
+.yeezyboost350v2zebra img {
+    width: 80%; 
+}
+
+.yeezyboost350v2preto {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    border: 1px solid #ddd; 
+    text-align: center;
+    border-radius: 50px;
+}
+
+.yeezyboost350v2preto img {
+    width: 80%; 
+}
+
+.yeezyslideglowgreen {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    border: 1px solid #ddd; 
+    text-align: center;
+    border-radius: 50px;
+}
+
+.yeezyslideglowgreen img {
     width: 80%; 
 }
 
