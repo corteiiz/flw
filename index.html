@@ -5,25 +5,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loja de Tênis</title>
     <link rel="stylesheet" href="loja.css">
+
 </head>
 <body>
-    <header id="header">
-        <a id="logo" href="/"></a>
-        <nav id="nav">
-            <button aria-label="abrir Menu" id="mobile-bt" aria-haspopup="true" aria-controls="menu" 
-            aria-expanded="false">
-                <spam id="hamburguer"></spam>
 
-            </button>
-            <ul id="menu" role="menu">
-                <li><a href="/"> Inicio </a></li>
-                <li><a href="/"> Sneakers </a></li>
-                <li><a href="/"> Sobre </a></li>
-                <li><a href="bio.html"> Contato </a></li>
-            </ul> 
-        </nav>
-    </header>
-    <script src="jv.js"></script>
+    <!-- Botão do WhatsApp -->
+  <div class="whatsapp-button">
+    <a href="https://api.whatsapp.com/send?phone=5511957988686" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-whatsapp"></i>
+    </a>
+  </div>
+
+   <!-- Botão "Voltar ao Topo" -->
+   <div class="back-to-top" id="backToTop">
+    <i class="fas fa-chevron-up"></i>
+  </div>
+
+ <!-- HEADER -->
+<header>
+    <div class="container flex-row">
+      <div class="header__logo">
+        <a href="#hero"><img id="header-logo-img" src="/cortina/LOGO.png" alt="Logo"></a>
+      </div>
+      <nav>
+        <ul class="header__menu flex-row">
+          <li>
+            <a href="#hero">Início</a>
+          </li>
+          <li>
+            <a href="#about">Sobre</a>
+          </li>
+          <li>
+            <a href="#services">Sneakers</a>
+          </li>
+          <li>
+            <a href="#projects">Projetos</a>
+          </li>
+          <li>
+            <a href="#contact">Contato</a>
+          </li>
+        </ul>
+      </nav>
+      <div class="right flex-center">
+        <a href="#contact" class="btn btn-secondary">Fale comigo</a>
+        <div class="menu-btn">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </div>
+</header>
+
     <section class="produtos">
         <div class="YezzySlide">
             <img src="/cortina/1511202033122966.png" id="tenis1" alt="Tênis 1">
@@ -139,5 +172,8 @@
     <footer class="footer">
         <p>Faça sua Consulta sem custo pelo nosso Whatsapp. </p>
     </footer>
+    <!-- SCRIPTS -->
+    <script src="jv.js"></script>
+    <script src="/VoltarTopo.js"></script>
 </body>
 </html>
