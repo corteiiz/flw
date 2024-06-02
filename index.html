@@ -5,6 +5,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loja de Tênis</title>
     <link rel="stylesheet" href="loja.css">
+    
+     <!-- AOS -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+
+  <!-- FONTAWESOME -->
+  <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
+
+  <!--Particulas-->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+  <!--EmailJS-->
+  <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+
+  <!-- FAVICON -->
+  <link rel="icon" type="image/x-icon" href="assets/img/favicon-rmdev.ico">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-80XVHS2NWN"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-80XVHS2NWN');
+  </script>
+
+  <title>RM│DEVELOPER</title>
+  <meta name="description"
+    content="RM Developer: Soluções digitais personalizadas para elevar sua presença online. Criação de sites, otimização de SEO, e-commerce e muito mais. Transforme suas ideias digitais em realidade com RM Developer.">
 
 </head>
 <body>
@@ -25,7 +54,7 @@
 <header>
     <div class="container flex-row">
       <div class="header__logo">
-        <a href="#hero"><img id="header-logo-img" src="/cortina/LOGO.png" alt="Logo"></a>
+        <a href="#hero"><img id="header-logo-img" src="/cortina/LOG.png" alt="Logo"></a>
       </div>
       <nav>
         <ul class="header__menu flex-row">
@@ -39,15 +68,12 @@
             <a href="#services">Sneakers</a>
           </li>
           <li>
-            <a href="#projects">Projetos</a>
-          </li>
-          <li>
             <a href="#contact">Contato</a>
           </li>
         </ul>
       </nav>
       <div class="right flex-center">
-        <a href="#contact" class="btn btn-secondary">Fale comigo</a>
+        <a href="/bio.html" class="btn btn-secondary">Fale comigo</a>
         <div class="menu-btn">
           <span></span>
           <span></span>
@@ -56,6 +82,80 @@
       </div>
     </div>
 </header>
+
+  <!-- INÍCIO -->
+  <section id="hero" class="container flex-row">
+    <div id="particles-js"></div>
+    <div class="hero__content">
+      <h1 class="title">Sneakers de sucessos!</h1>
+      <p class="text">
+        Crie seu estilo de Artista com a Frame$. Aqui temos todas as marcas 
+        que seus artistas favoritos usam!!
+      </p>
+      <a href="#contact" class="btn btn-primary">Vamos Inovar Juntos!</a>
+    </div>
+    <div class="hero__img">
+      <img src="/cortina/Air jordan 1 high mocha.png" alt="">
+    </div>
+  </section>
+
+  <!-- SOBRE -->
+  <section id="about" class="container flex-center flex-column" data-aos="fade-up">
+    <h5 class="section-subheading" data-aos="fade-right">Vivências com Sneakers</h5>
+    <h2 class="section-heading text-center" data-aos="fade-left">Defina sua presença com um Drip de Artista</h2>
+
+    <div class="features text-center">
+      <!-- Primeiro Card: Sites Entregues -->
+      <div class="feature" data-aos="fade-up-right">
+        <div class="feature__counter">
+          + de <span id="sitesCounter">1000</span>
+        </div>
+        <h3 class="feature__title">Importações feitas</h3>
+        <div class="feature__text">
+          <p>Em nosso ano de maior relevancia no mercado ate o momento
+            temos um total de mais de 1000 importações feitas!
+          </p>
+        </div>
+      </div>
+
+      <!-- Segundo Card: Projetos Concluídos -->
+      <div class="feature" data-aos="zoom-in">
+        <div class="feature__counter">
+          + de <span id="projectsCounter">750</span>
+        </div>
+        <h3 class="feature__title">Apenas tênis</h3>
+        <div class="feature__text">
+          <p>Mais de 750 dessas importações foram de têsnis!</p>
+        </div>
+      </div>
+
+      <!-- Terceiro Card: Clientes Satisfeitos -->
+      <div class="feature" data-aos="fade-up-left">
+        <div class="feature__counter">
+          + de <span id="clientsCounter">1200</span>
+        </div>
+        <h3 class="feature__title">Clientes Satisfeitos</h3>
+        <div class="feature__text">
+          <p>Com a sua autoestima elevada e estilosos!</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="about__details flex-center" data-aos="flip-left">
+      <div class="about__details-content">
+        <h1>Criando seu proprio estilo</h1>
+        <p>Em 2018, surgiu a SOFT, redirecionando para todo o Brasil e para o Mundo.
+            Em 2020 entrada de um dos nossos sócios, Eduardo, e tambem vem a troca do nome da empresa
+            para Frame$, com o crescimento das importações em 2021 fomos nomeados a melhor
+            empresa de redirecionamento do Brasil.
+        </p>
+        <a href="#contact" class="btn btn-primary">Venha fazer seu estilo!</a>
+      </div>
+      <div class="about__details-img">
+        <img src="/cortina/about.png" alt="">
+      </div>
+    </div>
+  </section>
 
     <section class="produtos">
         <div class="YezzySlide">
@@ -168,12 +268,143 @@
             <h3 class="nome"> nike sb dunk low the powerpuff girls blossom </h3>
             <p class="preco">R$ 569,99 </p>
         </div>
-    </section>
-    <footer class="footer">
-        <p>Faça sua Consulta sem custo pelo nosso Whatsapp. </p>
-    </footer>
+        <div class="nikesbdunklowthepowerpuffgirlsblossom">
+            <img src="/cortina/nike sb dunk low the powerpuff girls blossom.png" id="tenis1" alt="Tênis 3">
+            <h3 class="nome"> nike sb dunk low the powerpuff girls blossom </h3>
+            <p class="preco">R$ 427,49 </p>
+        </div>
+        <div class="nikesbdunklowthepowerpuffgirlsblossom">
+            <img src="/cortina/nike sb dunk low the powerpuff girls blossom.png" id="tenis1" alt="Tênis 3">
+            <h3 class="nome"> nike sb dunk low the powerpuff girls blossom </h3>
+            <p class="preco">R$ 427,49 </p>
+        </div>
+
+        <!-- CONTATO -->
+  <section id="contact">
+    <div class="container">
+      <h5 class="section-subheading text-center" data-aos="fade-up">Fale comigo</h5>
+      <h2 class="section-heading text-center left right" data-aos="fade-up" data-aos-delay="100">Venha garantir seu sneaker
+        do sonhos!
+      </h2>
+      <div class="contact">
+
+        <!-- Formulário de Contato -->
+        <form id="my-form" class="contact__form" data-aos="fade-right">
+          <h1>Envie sua mensagem</h1>
+          <input type="text" name="user_name" placeholder="Nome completo" required>
+          <input type="tel" name="user_phone" placeholder="WhatsApp" required>
+          <input type="text" name="subject" placeholder="Assunto" required>
+          <textarea rows="5" name="message" required placeholder="Nos conte o que você deseja..."></textarea>
+          <button type="submit" class="btn btn-primary">Enviar mensagem</button>
+        </form>
+
+        <!-- Detalhes de Contato -->
+        <div class="contact__details" data-aos="fade-left">
+          <p class="text">
+            Fale comigo, seja para tirar duvidas referente aos tenis ou até sobre roupas e acessorios
+          </p>
+          <div class="details">
+            <div class="detail">
+              <div class="detail__icon">
+                <i class="fas fa-phone"></i>
+              </div>
+              <div class="detail__content">
+                <h3>WhatsApp</h3>
+                <p>(11) 95798-8686</p>
+              </div>
+            </div>
+            <div class="detail">
+              <div class="detail__icon">
+                <i class="fas fa-envelope"></i>
+              </div>
+              <div class="detail__content">
+                <h3>Email</h3>
+                <p>veloxgamerhg@gmail.com</p>
+              </div>
+            </div>
+            <div class="detail">
+              <div class="detail__icon">
+                <i class="fas fa-map-marked-alt"></i>
+              </div>
+              <div class="detail__content">
+                <h3>Endereço</h3>
+                <p>São Paulo - Brasil</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+        <!-- FOOTER -->
+  <footer data-aos="fade-up">
+    <div class="container">
+      <div class="footer__content">
+        <div class="footer__details">
+          <div class="footer__logo">
+            <img id="footer-logo-img" src="/cortina/LOG.png" alt="Logo">
+          </div>
+          <p class="footer__text">
+            Fique por dentro de tudo que acontece no mundo dos sneakers.
+          </p>
+          <div class="footer__newletter">
+            <form action="#" class="footer__newsletter-form">
+              <input type="email" placeholder="Seu melhor e-mail" required>
+              <div class="icon">
+                <i class="fas fa-envelope "></i>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div class="footer__menu">
+          <h3 class="footer__menu-title">Acesso rápido</h3>
+          <ul class="footer__menu-list">
+            <li><a href="#hero">Início</a></li>
+            <li><a href="#about">Sobre</a></li>
+            <li><a href="bio.html">Contato</a></li>
+          </ul>
+        </div>
+
+        <div class="footer__menu">
+          <h3 class="footer__menu-title">Redes Sociais</h3>
+          <ul class="footer__menu-list">
+            <li><a href="https://www.instagram.com/rcort___.37/" target="_blank">Instagram</a></li>
+            <li><a href="https://github.com/Rcorteiiz" target="_blank">Github</a></li>
+            <li><a href="https://api.whatsapp.com/send?phone=5511957988686" target="_blank">Whatsapp</a></li>
+          </ul>
+        </div>
+
+      </div>
+      <div class="footer__bottom">
+        <div class="footer__bottom-icons">
+          <p>Siga-me</p>
+          <a href="https://www.instagram.com/cort___.37/" class="instagram" target="_blank">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://github.com/corteiiz" class="github" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        </div>
+        <p>&copy; 2023 Frame$. Todos os direitos reservados.</p>
+      </div>
+    </div>
+  </footer>
+
+    <!-- FONTAWESOME -->
+  <script src="assets/js/fontawesome.min.js"></script>
+
     <!-- SCRIPTS -->
     <script src="jv.js"></script>
     <script src="/VoltarTopo.js"></script>
+
+    <!-- AOS -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <!-- Inicialização do AOS -->
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>
