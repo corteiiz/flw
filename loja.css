@@ -196,7 +196,7 @@ a:hover {
 }
 
 .yeezyslideblue img {
-    width: 80%; 
+    width: 50%; 
 }
 
 .yeezyboost500C {
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .yeezyboost500R img {
-    width: 80%; 
+    width: 50%; 
 }
 
 .dunklowspvarsityroyalkentucky {
@@ -252,7 +252,7 @@ a:hover {
 }
 
 .dunklowspsyracuse img {
-    width: 80%; 
+    width: 50%; 
 }
 
 .nikedunklowusc {
@@ -294,7 +294,7 @@ a:hover {
 }
 
 .DunkspLbsterlaranja img {
-    width: 80%; 
+    width: 50%; 
 }
 
 .DunkSBmummy {
@@ -305,6 +305,20 @@ a:hover {
     border: 1px solid #ddd; 
     text-align: center;
     border-radius: 50px;
+}
+
+.DunkLowRetroPRmValentinesDay{
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    border: 1px solid #ddd;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.DunkLowRetroPRmValentinesDay img {
+    width: 80%; 
 }
 
 .DunkSBmummy img {
@@ -409,12 +423,15 @@ a:hover {
     width: 80%; 
 }
 
+.nome,.preco{
+    color: #fff;
+}
+
 footer {
     background-color: #333;
     color: #fff;
     padding: 10px;
     text-align: center;
     position: absolute;
-    bottom: -1500px;
-    width: 100%;
+    width: 98.8%;
 }
