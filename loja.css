@@ -126,7 +126,7 @@ a:hover {
 }
 
 .YezzySlide img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .yeezyboost350v2zebra {
@@ -140,7 +140,7 @@ a:hover {
 }
 
 .yeezyboost350v2zebra img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .yeezyboost350v2preto {
@@ -154,7 +154,7 @@ a:hover {
 }
 
 .yeezyboost350v2preto img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .yeezyslideglowgreen {
@@ -168,7 +168,7 @@ a:hover {
 }
 
 .yeezyslideglowgreen img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .yeezyboost350v2cinza {
@@ -182,7 +182,7 @@ a:hover {
 }
 
 .yeezyboost350v2cinza img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .yeezyslideblue {
@@ -196,7 +196,7 @@ a:hover {
 }
 
 .yeezyslideblue img {
-    width: 50%; 
+    width: 60%; 
 }
 
 .yeezyboost500C {
@@ -210,7 +210,7 @@ a:hover {
 }
 
 .yeezyboost500C img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .yeezyboost500R {
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .yeezyboost500R img {
-    width: 50%; 
+    width: 100%; 
 }
 
 .dunklowspvarsityroyalkentucky {
@@ -238,7 +238,7 @@ a:hover {
 }
 
 .dunklowspvarsityroyalkentucky img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .dunklowspsyracuse {
@@ -252,7 +252,7 @@ a:hover {
 }
 
 .dunklowspsyracuse img {
-    width: 50%; 
+    width: 65%; 
 }
 
 .nikedunklowusc {
@@ -266,7 +266,7 @@ a:hover {
 }
 
 .nikedunklowusc img {
-    width: 80%; 
+    width: 110%; 
 }
 
 .Dunkblue {
@@ -280,7 +280,7 @@ a:hover {
 }
 
 .Dunkblue img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .DunkspLbsterlaranja {
@@ -294,7 +294,7 @@ a:hover {
 }
 
 .DunkspLbsterlaranja img {
-    width: 50%; 
+    width: 70%; 
 }
 
 .DunkSBmummy {
@@ -307,7 +307,12 @@ a:hover {
     border-radius: 50px;
 }
 
-.DunkLowRetroPRmValentinesDay{
+.DunkSBmummy img {
+    width: 100%; 
+}
+
+
+.DunkLowRetroPRMValentinesDay{
     height: 10%;
     width: 20%; 
     padding: 10px;
@@ -317,12 +322,8 @@ a:hover {
     border-radius: 50px;
 }
 
-.DunkLowRetroPRmValentinesDay img {
-    width: 80%; 
-}
-
-.DunkSBmummy img {
-    width: 80%; 
+.DunkLowRetroPRMValentinesDay img {
+    width: 100%; 
 }
 
 .DunkAmarelo {
@@ -336,7 +337,7 @@ a:hover {
 }
 
 .DunkAmarelo img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .NikeDunkLowCollegeNavyGrey {
@@ -350,7 +351,7 @@ a:hover {
 }
 
 .NikeDunkLowCollegeNavyGrey img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .NIKEDUNKLOWPANDABLACKWHITE {
@@ -364,7 +365,7 @@ a:hover {
 }
 
 .NIKEDUNKLOWPANDABLACKWHITE img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .NikeSBDunkLowWhatThePRod {
@@ -378,7 +379,7 @@ a:hover {
 }
 
 .NikeSBDunkLowWhatThePRod img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .NikeDunkLowReversePandaPeon {
@@ -392,7 +393,7 @@ a:hover {
 }
 
 .NikeDunkLowReversePandaPeon img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .NikeSBDunkLowFreddyKrueger {
@@ -406,7 +407,7 @@ a:hover {
 }
 
 .NikeSBDunkLowFreddyKrueger img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .nikesbdunklowthepowerpuffgirlsblossom {
@@ -420,7 +421,7 @@ a:hover {
 }
 
 .nikesbdunklowthepowerpuffgirlsblossom img {
-    width: 80%; 
+    width: 100%; 
 }
 
 .nome,.preco{
