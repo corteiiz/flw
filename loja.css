@@ -770,6 +770,7 @@ header .right {
 .nome,.preco{
     color: black;
     width: 340px;
+    text-align: center;
 }
 
 /* CONTATO */
