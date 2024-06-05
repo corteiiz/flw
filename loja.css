@@ -461,9 +461,9 @@ header .right {
 .YezzySlide {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -475,9 +475,9 @@ header .right {
 .yeezyboost350v2zebra {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -489,9 +489,9 @@ header .right {
 .yeezyboost350v2preto {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -503,9 +503,9 @@ header .right {
 .yeezyslideglowgreen {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -517,9 +517,9 @@ header .right {
 .yeezyboost350v2cinza {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -531,9 +531,9 @@ header .right {
 .yeezyslideblue {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 30px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -545,9 +545,9 @@ header .right {
 .dunklowspvarsityroyalkentucky {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -559,9 +559,9 @@ header .right {
 .dunklowspsyracuse {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 30px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -573,9 +573,9 @@ header .right {
 .nikedunklowusc {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -587,9 +587,9 @@ header .right {
 .Dunkblue {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 70px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/ 
     text-align: center;
     border-radius: 50px;
 }
@@ -601,9 +601,9 @@ header .right {
 .DunkspLbsterlaranja {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 30px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/
     text-align: center;
     border-radius: 50px;
 }
@@ -615,9 +615,9 @@ header .right {
 .DunkSBmummy {
     height: 10%;
     width: 20%; 
-    padding: 10px;
+    padding: 60px;
     margin: 110px;
-    border: 1px solid #ddd; 
+    /*border: 1px solid #ddd;*/
     text-align: center;
     border-radius: 50px;
 }
@@ -913,5 +913,173 @@ footer {
     .footer__bottom {
         flex-direction: column;
         text-align: center;
+    }
+
+    .YezzySlide {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .YezzySlide img {
+        width: 100%; 
+    }
+    
+    .yeezyboost350v2zebra {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .yeezyboost350v2zebra img {
+        width: 100%; 
+    }
+    
+    .yeezyboost350v2preto {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .yeezyboost350v2preto img {
+        width: 100%; 
+    }
+    
+    .yeezyslideglowgreen {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .yeezyslideglowgreen img {
+        width: 100%; 
+    }
+    
+    .yeezyboost350v2cinza {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .yeezyboost350v2cinza img {
+        width: 100%; 
+    }
+    
+    .yeezyslideblue {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .yeezyslideblue img {
+        width: 60%; 
+    }
+    
+    .dunklowspvarsityroyalkentucky {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .dunklowspvarsityroyalkentucky img {
+        width: 100%; 
+    }
+    
+    .dunklowspsyracuse {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .dunklowspsyracuse img {
+        width: 65%; 
+    }
+    
+    .nikedunklowusc {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .nikedunklowusc img {
+        width: 110%; 
+    }
+    
+    .Dunkblue {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+
+    }
+    
+    .Dunkblue img {
+        width: 100%; 
+    }
+    
+    .DunkspLbsterlaranja {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/
+        text-align: center;
+
+    }
+    
+    .DunkspLbsterlaranja img {
+        width: 70%; 
+    }
+    
+    .DunkSBmummy {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/
+        text-align: center;
+
+    }
+    
+    .DunkSBmummy img {
+        width: 100%; 
     }
 }
