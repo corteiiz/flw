@@ -456,6 +456,87 @@ header .right {
     }
 }
 
+.neon-YEEZY{
+    font-size: 80px; /* Tamanho da fonte */
+    color: black; /* Cor do texto principal */
+    text-transform: uppercase; /* Transformar texto em maiúsculas */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: bold;
+    text-shadow: 
+        0 0 5px var(--color-black), 
+        0 0 10px var(--color-white), 
+        0 0 20px var(--primary-color), 
+        0 0 40px black, 
+        0 0 80px var(--color-white), 
+        0 0 120px black, 
+        0 0 160px var(--color-white);
+}
+
+.neon-dunk{
+    font-size: 80px; /* Tamanho da fonte */
+    color: black; /* Cor do texto principal */
+    text-transform: uppercase; /* Transformar texto em maiúsculas */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: bold;
+    text-shadow: 
+    0 0 5px var(--color-black), 
+    0 0 10px var(--color-white), 
+    0 0 20px var(--primary-color), 
+    0 0 40px black, 
+    0 0 80px var(--color-white), 
+    0 0 120px black, 
+    0 0 160px var(--color-white);
+}
+
+.neon-AIRJORDAN{
+    font-size: 80px; /* Tamanho da fonte */
+    color: black; /* Cor do texto principal */
+    text-transform: uppercase; /* Transformar texto em maiúsculas */
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: bold;
+    text-shadow: 
+    0 0 5px var(--color-black), 
+    0 0 10px var(--color-white), 
+    0 0 20px var(--primary-color), 
+    0 0 40px black, 
+    0 0 80px var(--color-white), 
+    0 0 120px black, 
+    0 0 160px var(--color-white);
+}
+
+.neon-BAPESTA{
+    font-size: 80px; /* Tamanho da fonte */
+    color: black; /* Cor do texto principal */
+    text-transform: uppercase; /* Transformar texto em maiúsculas */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: bold;
+    text-shadow: 
+    0 0 5px var(--color-black), 
+    0 0 10px var(--color-white), 
+    0 0 20px var(--primary-color), 
+    0 0 40px black, 
+    0 0 80px var(--color-white), 
+    0 0 120px black, 
+    0 0 160px var(--color-white);
+}
+
 
 
 .YezzySlide {
@@ -623,6 +704,174 @@ header .right {
 }
 
 .DunkSBmummy img {
+    width: 100%; 
+}
+
+.Airjordan1highchicago {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+   
+}
+
+.Airjordan1highchicago img {
+    width: 100%; 
+}
+
+.Airjordan1highlaranjaxpreto {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+ 
+}
+
+.Airjordan1highlaranjaxpreto img {
+    width: 60%; 
+}
+
+.Airjordan1lowazul {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+   
+}
+
+.Airjordan1lowazul img {
+    width: 100%; 
+}
+
+.Airjordan1highmocha {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+   
+}
+
+.Airjordan1highmocha img {
+    width: 80%; 
+}
+
+.Airjordan1lowmochaxtravis {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+   
+}
+
+.Airjordan1lowmochaxtravis img {
+    width: 120%; 
+}
+
+.AirJordan1LowTravisScottFragment {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+  
+}
+
+.AirJordan1LowTravisScottFragment img {
+    width: 80%; 
+}
+
+.Bapestaazul {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+  
+}
+
+.Bapestaazul img {
+    width: 70%; 
+}
+
+.BapeStaKanye {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+
+}
+
+.BapeStaKanye img {
+    width: 70%; 
+}
+
+.BapeStaverde {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+  
+}
+
+.BapeStaverde img {
+    width: 100%; 
+}
+
+.bapestajjjjound {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+  
+}
+
+.bapestajjjjound img {
+    width: 100%; 
+}
+
+.bapestalowblueyellow {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+
+}
+
+.bapestalowblueyellow img {
+    width: 100%; 
+}
+
+.BapeStaWhiteNavy {
+    height: 10%;
+    width: 20%; 
+    padding: 10px;
+    margin: 110px;
+    /*border: 1px solid #ddd;*/ 
+    text-align: center;
+
+}
+
+.BapeStaWhiteNavy img {
     width: 100%; 
 }
 
@@ -1082,4 +1331,173 @@ footer {
     .DunkSBmummy img {
         width: 100%; 
     }
+
+    .Airjordan1highchicago {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+       
+    }
+    
+    .Airjordan1highchicago img {
+        width: 100%; 
+    }
+    
+    .Airjordan1highlaranjaxpreto {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+     
+    }
+    
+    .Airjordan1highlaranjaxpreto img {
+        width: 60%; 
+    }
+    
+    .Airjordan1lowazul {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+       
+    }
+    
+    .Airjordan1lowazul img {
+        width: 100%; 
+    }
+    
+    .Airjordan1highmocha {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+       
+    }
+    
+    .Airjordan1highmocha img {
+        width: 80%; 
+    }
+    
+    .Airjordan1lowmochaxtravis {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+       
+    }
+    
+    .Airjordan1lowmochaxtravis img {
+        width: 120%; 
+    }
+    
+    .AirJordan1LowTravisScottFragment {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+      
+    }
+    
+    .AirJordan1LowTravisScottFragment img {
+        width: 80%; 
+    }
+    
+    .Bapestaazul {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+      
+    }
+    
+    .Bapestaazul img {
+        width: 70%; 
+    }
+    
+    .BapeStaKanye {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+    
+    }
+    
+    .BapeStaKanye img {
+        width: 70%; 
+    }
+    
+    .BapeStaverde {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+      
+    }
+    
+    .BapeStaverde img {
+        width: 100%; 
+    }
+    
+    .bapestajjjjound {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+      
+    }
+    
+    .bapestajjjjound img {
+        width: 100%; 
+    }
+    
+    .bapestalowblueyellow {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+    
+    }
+    
+    .bapestalowblueyellow img {
+        width: 100%; 
+    }
+    
+    .BapeStaWhiteNavy {
+        height: 10%;
+        width: 20%; 
+        padding: 1px;
+        margin: 100px;
+        /*border: 1px solid #ddd;*/ 
+        text-align: center;
+    
+    }
+    
+    .BapeStaWhiteNavy img {
+        width: 100%; 
+    }
+    
 }
